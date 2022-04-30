@@ -12,13 +12,13 @@ MVC, thymeleaf et spring DATA qui permet de gérer des patients</p>
 <p>-Créer une Page Template basée sur Thymeleaf Layout</p>
 <hr>
 <h5>Architecure d'une application web</h5>
-<img src="images/Capture1.png">
+<img src="images/Capture1.PNG">
 
 <hr>
 
 <h5>Interface:</h5>
 <p>Page index</p>
-<img src="images/index.png">
+<img src="images/index.PNG">
 <p>Formulaire d'ajout d'un Patient</p>
 <img src="images/ajouter.PNG">
 <p>Chercher un Patient</p>
